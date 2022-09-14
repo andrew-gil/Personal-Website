@@ -2,7 +2,7 @@
   "name": "andrew-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andrew-gil.github.io/Personal-Website/",
+  "homepage": "https://andrew-gil.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@emailjs/browser": "^3.6.2",
