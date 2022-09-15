@@ -71,7 +71,7 @@ const Home = () => {
                             <a
                             target = "_blank"
                             rel = "noreferrer"
-                            href = "https://boop-its-andrew.github.io"
+                            href = "https://funreadinggames.github.io"
                             >
                                 VISIT WEBSITE
                             </a>
