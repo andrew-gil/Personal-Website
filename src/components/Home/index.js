@@ -65,8 +65,7 @@ const Home = () => {
                             </h2>
                             <br />
                             <h3>
-                                A personal project in which I implemented a React website to treat children at risk for reading disabilities
-                                via early intervention. The website consists of scientifically informed games that train phonological awareness and improves word encoding and decoding. The games also help dyslexic adults improve their reading ability.
+                            Created a React website to treat children at risk for reading disabilities via early intervention. This personal project involved researching tested methods of treating reading disabilities in order to design and program scientifically informed games that train phonological awareness and improves word encoding and decoding. These games also help dyslexic adults improve their reading ability.
                             </h3>
                             <a
                             target = "_blank"
@@ -82,7 +81,7 @@ const Home = () => {
                             </h2>
                             <br />
                             <h3>
-                                Implemented a 2d graphics in a similar design to the Skia graphics engine.
+                            Developed a 2D graphics engine in a similar design to the Skia graphics engine. The program implements shaders, gradients, tiling, and other transformations to allow the user to code complex images.
                             </h3>
                             <a
                             target = "_blank"
@@ -99,10 +98,7 @@ const Home = () => {
                             </h2>
                             <br />
                             <h3>
-                            Implemented a Firebase Website that utilizes the National Park Service API and Open Weather AP to
-                            create a comprehensive search engine that returns parks of interest and information on the parks.
-                            Searches can be filtered by weather condition and by state and may be saved to your favorites either
-                            locally or via the cloud.
+                            Created a Firebase Website for outdoor enthusiasts to find parks they may be interested in visiting. The website includes a comprehensive search engine that returns parks of interest and information on the parks. Searches can be filtered and parks may be saved to your favorites either locally or via the cloud. 
                             </h3>
                             <a
                             target = "_blank"
@@ -119,7 +115,7 @@ const Home = () => {
                             </h2>
                             <br />
                             <h3>
-                                Implemented image modification motifs such as blending, hybrid images, synthetic bokeh, and HDR.
+                            Implemented image modification motifs such as blending, hybrid images, synthetic bokeh, and HDR. HDR is implemented via response function estimation, and given many images of the same scene with different exposure times, the program outputs a higher precision image.
                             </h3>
                             <a
                             target = "_blank"
@@ -136,7 +132,7 @@ const Home = () => {
                             </h2>
                             <br />
                             <h3>
-                                Implemented a comprehensive Lisp interpreter
+                            Built a comprehensive Lisp interpreter, including s-expressions, lambda functions, currying, and more.
                             </h3>
                             <a
                             target = "_blank"

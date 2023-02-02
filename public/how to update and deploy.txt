@@ -1,0 +1,5 @@
+1. make changes, check if changes are good via npm start\
+2. git add . , git commit -m \'93message\'94, git push\
+3. npm run deploy\
+4. after it redeploys, which may take a bit, redo the custom domain ame\
+5. the cache on your browser may remember the old data, open on different devices or incognito to check if changes truly stuck}

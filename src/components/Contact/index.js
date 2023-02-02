@@ -67,7 +67,7 @@ const About = () => {
                     </h1>
                 </div>
                 <div className = 'projects-zone'>
-                        <div className = 'project'>
+                        <div className = 'project' width={window.innerWidth}>
                             <button >
                                 EMAIL
                                 <FontAwesomeIcon icon = {faCaretDown} color = "#4d4d4e" className = 'caret-down' onClick = {() => setShowEmail(!showEmail)}/>

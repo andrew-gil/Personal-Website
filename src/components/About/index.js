@@ -44,17 +44,13 @@ const About = () => {
                         <img src = {face1} id = 'face'/>
                         <h2>
                             I am an ambitious programmer looking for a role in which I can challenge myself and develop my skills. 
-                            I care about working on projects that can improve people's lives with high functionality and efficiency.
-                            While I feel have a long way to go in learning and improving my skills, I try to improve myself every day, 
-                            and am always looking for the best way to accomplish a particular task.
+                            My goal is to work on projects that can improve lives with functionality and efficiency.
+                            One thing that defines me is that I am always looking for the most optimal way to accomplish a particular task.
+                            I try to improve myself every day; growth is a process, and I want to embrace the process.
                             <br />
                             <br />
-                            Off the computer, I have many hobbies which include competitive activities such as volleyball, as well as hobbies
-                            that involve creating, such as cooking, robotics, and more recently, pottery. Volleyball for me is an outlet by which I can
-                            get satisfaction from personal improvement, as I try to be better at the sport every time I play it. However, my creation
-                            based hobbies represent my desire to use the most optimal way to do something. For example, I love reading up on food science so
-                            I know the ways in which the ingredients in my food react with each other, and can use that to put the best food in my mouth.
-                            When I set my mind on a goal, I simply want to be the best at being the best. 
+                            Off the computer, my hobbies include competitive activities such as volleyball and chess, as well as creation activities, 
+                            such as cooking and robotics. 
                             <br />
                         </h2>
                         

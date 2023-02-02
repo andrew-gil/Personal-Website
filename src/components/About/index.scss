@@ -61,7 +61,8 @@
                 //justify-content: space-between;
                 //flex-wrap: nowrap;
                 h2 {
-                    text-align: justify;
+                    letter-spacing: .05em;
+                    word-spacing: .1em;
                 }
                 img {
                     //display: block;
@@ -74,7 +75,28 @@
                     animation: fadeIn 1s 2s backwards;
                 }
             }
-            
+            @media (max-width: 400px) {
+                text-align: center;
+                h2 {
+                    animation: fadeIn 1s 2s backwards;
+                    margin-left: 0px;
+                }
+                .text-and-image {
+                    display: flex;
+                    flex-direction: column;
+                    h2 {
+                        letter-spacing: .05em;
+                        word-spacing: .1em;
+                    }
+                    img {
+                        //display: block;
+                        //margin: 15px;
+                        max-height: 100%;
+                        max-width: 100%;
+                        animation: fadeIn 1s 2s backwards;
+                    }
+                }
+            }
         }
         h1 {
             color: #6c6c6c;
